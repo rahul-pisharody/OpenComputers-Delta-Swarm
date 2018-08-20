@@ -2,7 +2,7 @@
 A Drone-Swarm program based on Master-Slave architecture
 
 Requirements:
- 1. Drone with navigation uprade
+ 1. Drone with navigation uprade and wireless card
  2. Any wireless setup (Tablet, Computer with Wireless Relay, even a Robot with Wireless capability)
 
 Instructions:
