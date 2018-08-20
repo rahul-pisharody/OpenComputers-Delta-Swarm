@@ -11,12 +11,12 @@ function loadFile(filepath)
   end
 end
 
-loadFile("hive_utils.lua")
+loadFile("hive_ai\hive_utils.lua")
 os.sleep(3)
-loadFile("hive_chargeQueue.lua")
+loadFile("hive_ai\hive_chargeQueue.lua")
 os.sleep(3)
-loadFile("hive_move.lua")
+loadFile("hive_ai\hive_move.lua")
 os.sleep(3)
-loadFile("hive_loop.lua")
+loadFile("hive_ai\hive_loop.lua")
 --modem.broadcast(650,"DOFILE","modem.open(350) drone.setLightColor(0xFFFFFF) drone.setStatusText("THIS") while true do sleep(10) end")
     
