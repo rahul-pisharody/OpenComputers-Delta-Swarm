@@ -1,4 +1,4 @@
-# OpenComputers-Delta-Swarm
+# OpenComputers: Delta-Swarm
 A Drone-Swarm program based on Master-Slave architecture
 
 Requirements:
