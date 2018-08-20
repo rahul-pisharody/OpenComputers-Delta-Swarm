@@ -11,7 +11,3 @@ x=tonumber(x) or nil y=tonumber(y) or nil z=tonumber(z) or nil
 modem.broadcast(650,"SWARM MOVE",x,y,z)
 --moveAll(x,y,z)
 --modem.broadcast(650,"TASKS",test_cmds)
-for i in test_cmds:gmatch("[^;]+") do
-  print(i)
-  print(";")
-end
