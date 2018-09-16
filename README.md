@@ -1,5 +1,7 @@
 # OpenComputers: Delta-Swarm
-A Drone-Swarm program based on Master-Slave architecture
+**A Drone-Swarm program based on Master-Slave architecture**
+
+Note: This is a program for use in the *Minecraft* mod, *OpenComputers*.
 
 Requirements:
  1. Drone with navigation uprade and wireless card
